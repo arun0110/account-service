@@ -9,6 +9,6 @@ public class AccountController {
 
     @GetMapping("/ping")
     public String ping(){
-        return "Account Service is Up!";
+        return "Account Service is Up!!!";
     }
 }
